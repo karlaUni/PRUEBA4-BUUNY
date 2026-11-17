@@ -1,0 +1,7 @@
+BUNNY’S TREASURE – UI ACTUALIZADA
+
+Sube index.html, css/, js/ y assets/ a la raíz de GitHub Pages.
+La nueva interfaz usa los modelos GLB existentes sin modificarlos.
+Guardado de nivel y llaves mediante localStorage.
+NOTA: El código de juego original no expone posición segura/checkpoints a la interfaz, por lo que la opción Continuar restaura el nivel, pero no la posición exacta. La pausa visual de la nueva interfaz no garantiza congelar todas las simulaciones internas; el control de pausa del nivel sigue disponible con Escape.
+Se necesita conexión a Internet para cargar Three.js.
